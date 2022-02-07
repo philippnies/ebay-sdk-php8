@@ -1,8 +1,8 @@
 {
-    "name": "createwithcoding/ebay-sdk-php",
-    "description": "An eBay SDK for PHP. Use the eBay API in your PHP projects.",
+    "name": "createwithcoding/ebay-sdk-php8",
+    "description": "DEVELOPMENT ONLY! An eBay SDK for PHP8. Use the eBay API in your PHP8 DEVELOPMENT projects.",
     "keywords": ["ebay", "api", "sdk"],
-    "homepage": "http://devbay.net/",
+    "homepage": "https://www.createwithcoding.com",
     "type": "library",
     "license": "(Apache-2.0 and MIT)",
     "authors": [
