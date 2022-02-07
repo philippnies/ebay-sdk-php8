@@ -1,7 +1,7 @@
 # ebay-sdk-php8
 
 - Contact me if you are having difficulties getting this to work in your project.
-- I use code for the eBay Shopping API, the past 4 years to run part of my business.
+- I utilize this code to integrate into the eBay Shopping API, the past 4 years to run part of my business.
 - Code has been improved over the years.
 - It works with Laravel 8 & PHP 8.
 - It allows latest Guzzle 7 to be installed into your project via Composer.
