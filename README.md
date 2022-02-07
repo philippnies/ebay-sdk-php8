@@ -9,12 +9,12 @@ reference here: https://developer.ebay.com/
 more info here: https://www.openapis.org/faq
 and here: https://www.asyncapi.com/
 
+"Believe and Act as If It were Impossible to Fail"
+"Believe YOU can and You're Halfway There"
+
 Health is Indeed Wealth. The balance of programming for me is:
 Kitesurf, Gym, Hike, Bike, Bodysurf, Garden, Calisthenics, Relax the eyes towards 20/20 vision, rest in hammock, Fasting with water/juice.
 Seek an everlasting high EQ (Emotional Quotient). Be kind to others.
-
-"Believe and Act as If It were Impossible to Fail"
-"Believe YOU can and You're Halfway There"
 
 -Jeff Sellers
 
