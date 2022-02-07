@@ -3,7 +3,7 @@ Forked From David T Sadler ebay-sdk-php
 More in-depth info here: https://github.com/davidtsadler/ebay-sdk-php
 
 I use this for the Shopping API the past 4 years. I'm in process of making it work with Laravel 8 & PHP 8.
-I've got other projects I'm working on. So this is just a "fix" to keep my business running smoothly with the Shopping API from this.
+I've got other projects I'm working on. So this is just a "fix" to keep one part of my business running smoothly with the Shopping API from this.
 Later I'll be creating the Shopping API SDK and any other eBay SDK
 reference here: https://developer.ebay.com/
 more info here: https://www.openapis.org/faq
