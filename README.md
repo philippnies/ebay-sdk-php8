@@ -1,5 +1,21 @@
 # ebay-sdk-php8
 
+# Installation (This is for Development)
+- But I do use it for my business as if in production
+### Add this to your root composer.json file in your Laravel or other PHP framework
+```
+"repositories": [
+        
+            "type": "vcs",
+            "url": "https://github.com/CreateWithCoding/ebay-sdk-php8"
+        }
+],
+```
+### Run this within your Laravel Project from the command line
+```
+composer require createwithcoding/ebay-sdk-php8
+
+```
 - Contact me if you are having difficulties getting this to work in your project.
 - I utilize this code to integrate into the eBay Shopping API, the past 4 years to run part of my business.
 - Code has been improved over the years.
