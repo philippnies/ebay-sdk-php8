@@ -2,7 +2,8 @@
 
 # Installation (This is for Development)
 - But I do use it for my business as if in production
-### Add this to your root composer.json file in your Laravel or other PHP framework
+### Add this to your Root composer.json file in your Laravel or other PHP framework app project
+### (add below the "require" section of your Root composer.json file)
 ```
 "repositories": [
         
